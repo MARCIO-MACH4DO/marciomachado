@@ -2,8 +2,7 @@
 
 - 💻 Estou em busca da minha inserção na área de T.I
 - 📖 Estudando HTML CSS JavaScript Lógica de Programação Java e demais conteúdos relacionados com a área da Tecnologia da Informação
-- 📬Contate-me no email: marcioilson@yahoo.com.br
-- 🦂Pronouns: ele\dele he\his\guy
+
 
 
 <div align="center">
