@@ -6,10 +6,10 @@
 - 🦂Pronouns: ele\dele he\his\guy
 
 <br>
-<div align="left">
+<div align="center">
   <a href="https://github.com/MARCIO-MACH4DO">
-  <img size="80%" src="https://github-readme-stats.vercel.app/api?username=MARCIO-MACH4DO&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
-  <img size="120%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARCIO-MACH4DO&layout=compact&langs_count=7&theme=highcontrast">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MARCIO-MACH4DO&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true">
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARCIO-MACH4DO&layout=compact&langs_count=7&theme=highcontrast">
 </a></div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
