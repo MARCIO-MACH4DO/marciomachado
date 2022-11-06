@@ -5,11 +5,13 @@
 <br>  Java e demais conteúdos relacionados com a área da Tecnologia da Informação
 
 
-
 <div align="center">
-     <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=false&username=MARCIO-MACH4DO" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=280&langs_count=5&theme=highcontrast&hide_border=false&username=MARCIO-MACH4DO" height="150" alt="languages graph"  />
+  <a href="https://github.com/MARCIO-MACH4DO">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=MARCIO-MACH4DO&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MARCIO-MACH4DO&layout=compact&langs_count=7&theme=highcontrast"/>
+  </a>
 </div>
+
 <div style="display: inline_block">
   <img align="center" alt="Marcio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Marcio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
